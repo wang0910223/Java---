@@ -1,0 +1,2 @@
+在main function中已經寫好每個題目要求的function的測試用的程式，
+可以透過第9,10行改變test1,test2的值做測試。
